@@ -28,9 +28,9 @@ $ npm install |Use this command to install the dependencies in the local node_mo
 $ node server.js |Use this command to kick-off the server so that you can paste it in your browser to run locally.
 
 
-After running all of the commands above visit http://127.0.0.1:8080/ - the site should be deployed and visible on TCP port 8080 of your local machine.
+After running all of the commands above visit http://127.0.0.1:8000/ - the site should be deployed and visible on TCP port 8000 of your local machine.
 
-Great resources for learning step by step are here: 
+Great resources for learning step by step are here (directly from the source): 
 
 How do you set up a local testing server?: [MDN Local Server] (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
